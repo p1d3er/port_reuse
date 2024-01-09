@@ -52,7 +52,6 @@ func main() {
 		if os.Args[0] == os.Args[1] {
 			fmt.Println(os.Args[0] + " [lhost] [reuse prot] [rhost] [rport] [md5(myip)]")
 			fmt.Println("myip is we link to its md5(IP)")
-			fmt.Println("it cannot reuse service port like IIS,RDP, but can reuse Mysql,Apache and so on")
 			fmt.Println("Use it carefully and bear the consequences.")
 			os.Exit(0)
 		}
