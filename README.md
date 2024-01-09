@@ -1,6 +1,9 @@
-使用方法 
+`windows` ：使用方法 
 
-`windows`
+help
+
+```port_reuse.exe  port_reuse.exe```
+
 
 port_reuse.exe [lhost] [reuse prot] [rhost] [rport] [md5(myip)]
 
@@ -10,6 +13,12 @@ port_reuse.exe [lhost] [reuse prot] [rhost] [rport] [md5(myip)]
 
 不依赖防火墙，注意使用管理员权限执行
 
+`linux` ：使用方法 
 
+help
+
+```./port_reuse_linux ./port_reuse_linux```
+
+请自行测试那些端口可以复用
 
 **仅供技术研究使用，请勿用于非法用途，否则后果作者概不负责**
