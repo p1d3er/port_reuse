@@ -70,7 +70,7 @@ l, err := lc.Listen(context.Background(), "tcp", laddr)
 
 ![image-20240105103740579](image-20240105103740579.png)
 
-同时也不影响webd服务正常使用
+同时也不影响web端口的正常服务使用
 
 ![image-20240105104424386](image-20240105104424386.png)
 
