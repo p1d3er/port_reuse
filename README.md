@@ -11,7 +11,9 @@ port_reuse.exe [lhost] [reuse prot] [rhost] [rport] [md5(myip)]
 
 不依赖防火墙，注意使用管理员权限执行
 
+![image-20240105104424386](image-20240105104424386.png)
 
+![image-20240105103740579](image-20240105103740579.png)
 
 ## `linux` ：使用方法 
 
